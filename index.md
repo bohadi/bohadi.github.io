@@ -14,6 +14,6 @@ some links:<br>
 [Kepler's "Somnium"](https://somniumproject.wordpress.com/somnium)<br>
 [Lucian's "Vera Historia"](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
-[aosa/llvm](aosabook.org/en/llvm.html)<br>
-[aosa/git](aosabook.org/en/git.html)<br>
-[aosa/ghc](aosabook.org/en/ghc.html)<br>
+[aosa/llvm](https://aosabook.org/en/llvm.html)<br>
+[aosa/git](https://aosabook.org/en/git.html)<br>
+[aosa/ghc](https://aosabook.org/en/ghc.html)<br>
