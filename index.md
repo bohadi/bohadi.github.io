@@ -13,3 +13,7 @@ some links:<br>
 [The Travels of Marco Polo](https://en.wikisource.org/wiki/The_Travels_of_Marco_Polo)<br>
 [Kepler's "Somnium"](https://somniumproject.wordpress.com/somnium)<br>
 [Lucian's "Vera Historia"](http://lucianofsamosata.info/TheTrueHistory.html)<br>
+
+[aosa/llvm](aosabook.org/en/llvm.html)<br>
+[aosa/git](aosabook.org/en/git.html)<br>
+[aosa/ghc](aosabook.org/en/ghc.html)<br>
