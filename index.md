@@ -12,8 +12,8 @@ some links:<br>
 [SEP/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
 
 [The Travels of Marco Polo](https://en.wikisource.org/wiki/The_Travels_of_Marco_Polo)<br>
-[Kepler's "Somnium"](https://somniumproject.wordpress.com/somnium)<br>
-[Lucian's "Vera Historia"](http://lucianofsamosata.info/TheTrueHistory.html)<br>
+[Somnium, by Kepler](https://somniumproject.wordpress.com/somnium)<br>
+[Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
 [aosa/llvm](http://aosabook.org/en/llvm.html)<br>
 [aosa/git](http://aosabook.org/en/git.html)<br>
