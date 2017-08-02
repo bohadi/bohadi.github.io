@@ -2,7 +2,7 @@
 layout:
 ---
 under construction<br>
-currently seeking entry-level position
+currently seeking openings
 
 <iframe width="500" height="125" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
 
@@ -18,3 +18,5 @@ some links:<br>
 [aosa/llvm](http://aosabook.org/en/llvm.html)<br>
 [aosa/git](http://aosabook.org/en/git.html)<br>
 [aosa/ghc](http://aosabook.org/en/ghc.html)<br>
+
+[//]: # [accretion](/acc.html)<br>
