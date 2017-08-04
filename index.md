@@ -1,10 +1,7 @@
 ---
 layout:
 ---
-Computer Science; Software, AI, Biology, Finance<br>
-Urbana-Champaign Engineering graduate<br>
-Princeton PhD dropout<br>
-<br>
+under construction <br>
 currently seeking openings; entry-level, high growth
 
 <iframe width="500" height="125" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
