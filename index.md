@@ -5,7 +5,7 @@ under construction <br>
 
 <iframe width="500" height="125" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
 
-some interesting links:<br>
+some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
 [cryptowat.ch](https://cryptowat.ch)<br>
 [sep/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
