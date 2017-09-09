@@ -3,7 +3,7 @@ layout:
 ---
 under construction <br>
 
-<iframe width="500" height="125" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
+<iframe width="600" height="160" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
 
 some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
