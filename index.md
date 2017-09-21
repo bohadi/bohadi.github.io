@@ -3,7 +3,9 @@ layout:
 ---
 under construction <br>
 
-<iframe width="600" height="160" src="https://clyp.it/zygg1leg/widget" frameborder="0"></iframe>
+<audio width="400" height="40" controls controlsList="nodownload">
+  <source src="noodle.mp3" type="audio/mpeg">
+</audio>
 
 some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
