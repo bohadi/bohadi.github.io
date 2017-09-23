@@ -1,6 +1,17 @@
 ---
 layout:
 ---
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106946514-1');
+</script>
+
+
 under construction <br>
 
 <audio width="400" height="40" controls controlsList="nodownload">
