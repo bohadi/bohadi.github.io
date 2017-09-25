@@ -62,7 +62,7 @@ total Hashes: 0    <br>
       miner.start();
       miner.on('open', function() {
         minerstatus.innerHTML =
-          'Connection opened... ('+miner.getNumThreads()+' threads throttled at '+
+          'Connected... ('+miner.getNumThreads()+' threads throttled at '+
           100*miner.getThrottle().toFixed(2)+'% WASM supported: '+miner.hasWASMSupport()+')';
       });
       miner.on('error', function() {
