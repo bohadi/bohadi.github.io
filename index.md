@@ -61,21 +61,18 @@ total Hashes: 0    <br>
       });
       miner.start();
       miner.on('open', function() {
-        minerstatus.innerHTML = 'Connection opened...';
+        minerstatus.innerHTML =
+          'Connection opened... ('+miner.getNumThreads()+' threads throttled at '+
+          100*miner.getThrottle().toFixed(2)+'% WASM supported: '+miner.hasWASMSupport()+')';
       });
       miner.on('error', function() {
         miner.stop();
         minerstatus.innerHTML = '...Connection error. Miner stopping.';
       });
-      miner.on('accepted', function() {
-        minerstatus.innerHTML =
-          'Connected. ('+miner.getNumThreads()+' threads throttled at '+
-          100*miner.getThrottle().toFixed(2)+'% WASM supported: '+miner.hasWASMSupport()+')';
-      });
       setInterval(function() {
         minerio.innerHTML = 
-          'Hashes/second: '   + miner.getHashesPerSecond().toFixed(2) + '<br>' +
-          'total Hashes: '    + miner.getTotalHashes()                + '<br>' ;
+          'Hashes/second:  '   + miner.getHashesPerSecond().toFixed(0) + '<br>' +
+          ' total Hashes: '    + miner.getTotalHashes()                + '<br>' ;
       }, 1000);
     } catch (e) {
       minerstatus.innerHTML = '...Connection error. Miner stopping.';
