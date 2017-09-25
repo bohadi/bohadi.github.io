@@ -33,7 +33,7 @@ some links:<br>
 [Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
 <br>
-This page mines [Monero (cryptocurrency)](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) in the background.<br>
+This page mines [Monero](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) in the background.<br>
 This may be an alternative to serving ads and you may have to disable adblock. 
 <br>
 <div id='minerstatus'>
