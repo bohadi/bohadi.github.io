@@ -26,7 +26,7 @@ under construction<br>
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
-[projects](https://bohadi.github.io/)!
+[projects](https://github.com/bohadi)
 <br><br>
 
 some links:<br>
