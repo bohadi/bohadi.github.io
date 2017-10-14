@@ -26,7 +26,7 @@ under construction<br>
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
-[interactive graphics](https://bohadi.github.io/smb) with WebGL!
+[projects](https://bohadi.github.io/)!
 <br><br>
 
 some links:<br>
