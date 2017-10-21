@@ -15,7 +15,7 @@ layout:
 <meta http-equiv="Expires" content="0">
 </head>
 
-under construction<br>
+under (perpetual) construction<br>
 
 <!--Omniscient omnipotent and deeply unfriendly full stack developer. <br>
 [Add](mailto:bohadi@users.noreply.github.com) me to your team today!
@@ -33,6 +33,7 @@ some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
 [cryptowat.ch](https://cryptowat.ch)<br>
 [sep/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
+some old stories:<br>
 [The Travels of Marco Polo](https://en.wikisource.org/wiki/The_Travels_of_Marco_Polo)<br>
 [Somnium, by Kepler](https://somniumproject.wordpress.com/somnium)<br>
 [Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
