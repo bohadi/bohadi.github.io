@@ -15,18 +15,16 @@ layout:
 <meta http-equiv="Expires" content="0">
 </head>
 
-under (perpetual) construction<br>
+Thanks for the visit please feel free to look around.
 
-<!--Omniscient omnipotent and deeply unfriendly full stack developer. <br>
-[Add](mailto:bohadi@users.noreply.github.com) me to your team today!
-<br>
+<!--(mailto:bohadi@users.noreply.github.com) contact me if you please
 -->
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
-[this site/repo/projects](https://github.com/bohadi)
+[this site, projects repo](https://github.com/bohadi)
 <br><br>
 
 some links:<br>
@@ -39,8 +37,8 @@ some old stories:<br>
 [Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
 <br>
-This page mines [Monero](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) in the background.<br>
-This may be an alternative to serving ads and you may have to disable adblock. 
+This page can mine [Monero](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) in the background.<br>
+This may be an alternative to serving ads and is disabled by adblock. 
 <br>
 <div id='minerstatus'>
 Attempting to connect...
