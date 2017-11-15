@@ -40,10 +40,10 @@ if you would like to contact me
 
 here are some learning resources i find helpful:<br>
 [pfpl](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
+[hott](https://homotopytypetheory.org/book/)<br>
 [ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
 [oplss17](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)<br>
 [nlab/wiki](https://ncatlab.org/nlab/show/HomePage)<br>
-[hott](https://homotopytypetheory.org/book/)<br>
 [aosa/ghc](http://www.aosabook.org/en/ghc.html)<br>
 [r/haskell](http://www.reddit.com/r/haskell)<br>
 
