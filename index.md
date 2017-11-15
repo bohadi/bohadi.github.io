@@ -43,6 +43,7 @@ some learning resources I find helpful:<br>
 [CTFP](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
 [oplss17](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)<br>
 [ncatlabwiki](https://ncatlab.org/nlab/show/HomePage)<br>
+[IToC](https://math.mit.edu/~sipser/book.html)<br>
 [ParCon](http://chimera.labs.oreilly.com/books/1230000000929/index.html)<br>
 [AOSA/ghc](http://www.aosabook.org/en/ghc.html)<br>
 [r/haskell](http://www.reddit.com/r/haskell)<br>
@@ -61,7 +62,7 @@ I enjoy playing the guitar, here is a short recording I made.
 and some nice links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
 [cryptowat.ch](https://cryptowat.ch)<br>
-[sep/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
+[SEP/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
 
 <!--
 some old stories:<br>
@@ -74,7 +75,6 @@ some old stories:<br>
 
 <br>
 Finally, this page can mine Monero on your machine.<br>
-<br>
 <div id='minerstatus'>
 Attempting to connect...
 </div>
