@@ -19,9 +19,10 @@ i apologize this site watches back
 <meta http-equiv="Expires" content="0">
 </head>
 
-Welcome to the user site of [github/bohadi](https://github.com/bohadi).
+Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
+Thanks for the visit and please feel free to look around.
 
-I am currently most interested in effectively engineering complex
+I am currently most interested in effectively engineering complex<br>
 software via application of category theory and type theory.
 
 <!--
@@ -31,14 +32,12 @@ In particular, I am studying language, compilation, and blockchain implementatio
 Other interests include AI/ML, genomics, and the design and enjoyment of games.
 -->
 
-Thanks for the visit and please feel free to look around.
-
 <!--
 (mailto:bohadi@users.noreply.github.com)
 if you would like to contact me
 -->
 
-here are some learning resources i find helpful:<br>
+some learning resources i find helpful:<br>
 [pfpl](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
 [hott](https://homotopytypetheory.org/book/)<br>
 [ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
@@ -58,7 +57,7 @@ I enjoy playing the guitar and here is a short recording I made.
 [this site, projects repo](https://github.com/bohadi)
 -->
 
-some links:<br>
+and some nice links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
 [cryptowat.ch](https://cryptowat.ch)<br>
 [sep/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
@@ -69,7 +68,7 @@ some old stories:<br>
 [Somnium, by Kepler](https://somniumproject.wordpress.com/somnium)<br>
 [Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
-[other fiction i (did) enjoy](movies)<br>
+[other fiction i (did) enjoy](/movies)<br>
 -->
 
 <br>
