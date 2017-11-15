@@ -37,21 +37,22 @@ Other interests include AI/ML, genomics, and the design and enjoyment of games.
 if you would like to contact me
 -->
 
-some learning resources i find helpful:<br>
-[pfpl](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
-[hott](https://homotopytypetheory.org/book/)<br>
-[ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
+some learning resources I find helpful:<br>
+[PFPL](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
+[HoTT](https://homotopytypetheory.org/book/)<br>
+[CTFP](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
 [oplss17](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)<br>
-[nlab/wiki](https://ncatlab.org/nlab/show/HomePage)<br>
-[aosa/ghc](http://www.aosabook.org/en/ghc.html)<br>
+[ncatlabwiki](https://ncatlab.org/nlab/show/HomePage)<br>
+[ParCon](http://chimera.labs.oreilly.com/books/1230000000929/index.html)<br>
+[AOSA/ghc](http://www.aosabook.org/en/ghc.html)<br>
 [r/haskell](http://www.reddit.com/r/haskell)<br>
 
+
+I enjoy playing the guitar, here is a short recording I made.
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
-
-I enjoy playing the guitar and here is a short recording I made.
 
 <!--
 [this site, projects repo](https://github.com/bohadi)
