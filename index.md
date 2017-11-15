@@ -2,10 +2,6 @@
 layout:
 ---
 
-<!--
-i apologize this site watches back
--->
-
 <head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
 <script>
@@ -18,6 +14,10 @@ i apologize this site watches back
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 </head>
+
+<!--
+i apologize this site watches back
+-->
 
 Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
 Thanks for the visit and please feel free to look around.
@@ -54,10 +54,6 @@ I enjoy playing the guitar, here is a short recording I made.
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
-
-<!--
-[this site, projects repo](https://github.com/bohadi)
--->
 
 and some nice links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
