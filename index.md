@@ -2,6 +2,10 @@
 layout:
 ---
 
+<!--
+i apologize this site watches back
+-->
+
 <head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
 <script>
@@ -15,10 +19,30 @@ layout:
 <meta http-equiv="Expires" content="0">
 </head>
 
-Thanks for the visit please feel free to look around.
+Welcome to the user site of github/bohadi.
 
-<!--(mailto:bohadi@users.noreply.github.com) contact me if you please
+I am currently most interested in effectively engineering complex computation
+via application of abstract category theory and type theory by functional programming.
+
+<!--
+In particular, I am studying language, compilation, and blockchain implementations.
+Other interests include AI/ML, genomics, and the design and enjoyment of games.
 -->
+
+Thanks for the visit and please feel free to look around.
+
+<!--
+(mailto:bohadi@users.noreply.github.com)
+if you would like to contact me
+-->
+
+here are some learning resources i find helpful:<br>
+[ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
+[pfpl](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
+also:<br>
+[toc](https://math.mit.edu/~sipser/book.html)<br>
+[aosa/ghc](http://www.aosabook.org/en/ghc.html)<br>
+
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
@@ -31,14 +55,18 @@ some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
 [cryptowat.ch](https://cryptowat.ch)<br>
 [sep/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
+
+<!--
 some old stories:<br>
 [The Travels of Marco Polo](https://en.wikisource.org/wiki/The_Travels_of_Marco_Polo)<br>
 [Somnium, by Kepler](https://somniumproject.wordpress.com/somnium)<br>
 [Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
 
+[other fiction i (did) enjoy](movies)<br>
+-->
+
 <br>
-This page can mine [Monero](https://en.wikipedia.org/wiki/Monero_(cryptocurrency)) in the background.<br>
-This may be an alternative to serving ads and is disabled by adblock. 
+Finally, this page can mine Monero on your machine.<br>
 <br>
 <div id='minerstatus'>
 Attempting to connect...
@@ -66,7 +94,7 @@ total Hashes: 0    <br>
       });
       miner.on('error', function() {
         miner.stop();
-        minerstatus.innerHTML = '...Connection error. Miner stopping.';
+        minerstatus.innerHTML = '...Connection error (adblock). Miner stopping.';
       });
       setInterval(function() {
         minerio.innerHTML = 
