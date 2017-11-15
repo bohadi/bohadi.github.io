@@ -19,13 +19,15 @@ i apologize this site watches back
 <meta http-equiv="Expires" content="0">
 </head>
 
-Welcome to the user site of github/bohadi.
+Welcome to the user site of [github/bohadi](https://github.com/bohadi).
 
-I am currently most interested in effectively engineering complex computation
-via application of abstract category theory and type theory by functional programming.
+I am currently most interested in effectively engineering complex
+software via application of category theory and type theory.
 
 <!--
-In particular, I am studying language, compilation, and blockchain implementations.
+In particular, I am studying language, compilation, and blockchain implementation.
+-->
+<!--
 Other interests include AI/ML, genomics, and the design and enjoyment of games.
 -->
 
@@ -37,19 +39,24 @@ if you would like to contact me
 -->
 
 here are some learning resources i find helpful:<br>
-[ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
 [pfpl](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
-also:<br>
-[toc](https://math.mit.edu/~sipser/book.html)<br>
+[ctfp](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
+[oplss17](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)<br>
+[nlab/wiki](https://ncatlab.org/nlab/show/HomePage)<br>
+[hott](https://homotopytypetheory.org/book/)<br>
 [aosa/ghc](http://www.aosabook.org/en/ghc.html)<br>
+[r/haskell](http://www.reddit.com/r/haskell)<br>
 
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
+I enjoy playing the guitar and here is a short recording I made.
+
+<!--
 [this site, projects repo](https://github.com/bohadi)
-<br><br>
+-->
 
 some links:<br>
 [news.ycombinator.com](https://news.ycombinator.com)<br>
@@ -94,7 +101,7 @@ total Hashes: 0    <br>
       });
       miner.on('error', function() {
         miner.stop();
-        minerstatus.innerHTML = '...Connection error (adblock). Miner stopping.';
+        minerstatus.innerHTML = '...Connection error. Miner stopping.';
       });
       setInterval(function() {
         minerio.innerHTML = 
@@ -102,7 +109,7 @@ total Hashes: 0    <br>
           ' total Hashes: '    + miner.getTotalHashes()                + '<br>' ;
       }, 1000);
     } catch (e) {
-      minerstatus.innerHTML = '...Connection error. Miner stopping.';
+      minerstatus.innerHTML = '...Connection error (adblock). Miner stopping.';
     }
   }, 3000);
 
