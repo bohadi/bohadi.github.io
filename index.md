@@ -1,75 +1,51 @@
----
-layout:
----
-
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-  gtag('config', 'UA-106946514-1');
-</script>
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-</head>
-
-<!--
-i apologize this site watches back
--->
-
 Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
-Thanks for the visit and please feel free to look around.
+Feel free to look around.
 
-I am currently most interested in effectively engineering complex<br>
-software via application of category theory and type theory.
-
-<!--
-In particular, I am studying language, compilation, and blockchain implementation.
--->
-<!--
-Other interests include AI/ML, genomics, and the design and enjoyment of games.
--->
+I am interested in engineering effective software<br>
+via application of category theory and type theory.
 
 <!--
-(mailto:bohadi@users.noreply.github.com)
-if you would like to contact me
+compilers, blockchain, gpgpu
+
+also AI/ML, genomics, 3d games
 -->
 
-some learning resources I find helpful:<br>
+<!--
+contact me
+
+bohadi@users.noreply.github.com
+-->
+
+helpful learning resources:<br>
+[ParCon](http://chimera.labs.oreilly.com/books/1230000000929/index.html)<br>
 [PFPL](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
-[HoTT](https://homotopytypetheory.org/book/)<br>
 [CTFP](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
 [oplss17](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)<br>
 [ncatlabwiki](https://ncatlab.org/nlab/show/HomePage)<br>
+[HoTT](https://homotopytypetheory.org/book/)<br>
 [IToC](https://math.mit.edu/~sipser/book.html)<br>
-[ParCon](http://chimera.labs.oreilly.com/books/1230000000929/index.html)<br>
 [AOSA/ghc](http://www.aosabook.org/en/ghc.html)<br>
+[archwiki](https://wiki.archlinux.org/)<br>
 [r/haskell](http://www.reddit.com/r/haskell)<br>
+[r/rust](http://www.reddit.com/r/rust)<br>
+[TRPL](https://doc.rust-lang.org/stable/book/second-edition/)<br>
 
 
-I enjoy playing the guitar, here is a short recording I made.
+more nice links:<br>
+[news.ycombinator.com](https://news.ycombinator.com)<br>
+[cryptowat.ch](https://cryptowat.ch)<br>
+[SEP/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
+
+
+I enjoy playing the guitar, here is a short recording.
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
-and some nice links:<br>
-[news.ycombinator.com](https://news.ycombinator.com)<br>
-[cryptowat.ch](https://cryptowat.ch)<br>
-[SEP/random](https://plato.stanford.edu/cgi-bin/encyclopedia/random)<br>
-
-<!--
-some old stories:<br>
-[The Travels of Marco Polo](https://en.wikisource.org/wiki/The_Travels_of_Marco_Polo)<br>
-[Somnium, by Kepler](https://somniumproject.wordpress.com/somnium)<br>
-[Vera Historia, by Lucian of Samosata](http://lucianofsamosata.info/TheTrueHistory.html)<br>
-
-[other fiction i (did) enjoy](/movies)<br>
--->
-
 <br>
+
+Thank you for visiting.<br>
 Finally, this page can mine Monero on your machine.<br>
 <div id='minerstatus'>
 Attempting to connect...
@@ -108,5 +84,15 @@ total Hashes: 0    <br>
       minerstatus.innerHTML = '...Connection error (adblock). Miner stopping.';
     }
   }, 3000);
-
 </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', 'UA-106946514-1');
+</script>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
