@@ -1,3 +1,6 @@
+---
+layout:
+---
 Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
 Feel free to look around.
 
