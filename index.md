@@ -4,19 +4,18 @@ layout:
 Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
 
 I am interested in engineering effective software using<br>
-functional programming, type theory, and category theory.
+functional programming, type theory, and category theory.<br>
+
+contact me<br>
+bohadi protonmail com<br>
 
 <!--
 compilers, blockchain, gpgpu
 
 also ai/ml, genomics, 3d games
 
-contact me
-bohadi@users.noreply.github.com
-
 [learning resources](./resources)
 -->
-
 
 Here is a short recording of me playing the guitar, which I enjoy.
 
@@ -25,7 +24,6 @@ Here is a short recording of me playing the guitar, which I enjoy.
 </audio>
 
 <br>
-
 Thank you for visiting.<br>
 Finally, this page can mine Monero on your machine surreptitiously.<br>
 <div id='minerstatus'>
