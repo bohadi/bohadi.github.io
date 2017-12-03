@@ -6,6 +6,7 @@ helpful accessible learning resources:<br>
 [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html)<br>
 [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl.html)<br>
 [Category Theory For Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)<br>
+[Wikibooks Haskell](https://en.wikibooks.org/wiki/Haskell)<br>
 [Write You A Haskell](http://dev.stephendiehl.com/fun/)<br>
 [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)<br>
 [Homotopy Type Theory](https://homotopytypetheory.org/book/)<br>
