@@ -10,13 +10,14 @@ contact me<br>
 bohadi protonmail com<br>
 
 <!--
-compilers, blockchain, gpgpu
+compilers, cryptography, parallel/concurrent/distributed systems
 
-also ai/ml, genomics, 3d games
+also ai/ann, genomics, 3d games
 
 [learning resources](./resources)
 -->
 
+Thank you for visiting.<br>
 Here is a short recording of me playing the guitar, which I enjoy.
 
 <audio width="400" height="40" controls controlsList="nodownload">
@@ -24,7 +25,6 @@ Here is a short recording of me playing the guitar, which I enjoy.
 </audio>
 
 <br>
-Thank you for visiting.<br>
 Finally, this page can mine Monero on your machine surreptitiously.<br>
 <div id='minerstatus'>
 Attempting to connect...
