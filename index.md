@@ -3,20 +3,21 @@ layout:
 ---
 Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
 
-I am interested in engineering effective software using<br>
+I am interested in engineering effective software, using in anger<br>
 functional programming, type theory, and category theory.<br>
 
 contact me<br>
 bohadi protonmail com<br>
 
 <!--
-compilers, cryptography, parallel/concurrent/distributed systems
+parallel/concurrent/distributed systems, compilers, cryptography, 
 
 also ai/ann, genomics, 3d games
 
 [learning resources](./resources)
 -->
 
+<br><br>
 Thank you for visiting.<br>
 Here is a short recording of me playing the guitar, which I enjoy.
 
