@@ -1,20 +1,17 @@
 ---
 layout:
 ---
-Welcome to the user site of [github/bohadi](https://github.com/bohadi).<br>
+Welcome to the user site of github/[bohadi](https://github.com/bohadi).<br>
 
 I am interested in engineering effective software, using in anger<br>
 functional programming, type theory, and category theory.<br>
 
-contact me<br>
+contact me:<br>
 bohadi protonmail com<br>
 
 <!--
-parallel/concurrent/distributed systems, compilers, cryptography, 
-
-also ai/ann, genomics, 3d games
-
-[learning resources](./resources)
+[posts](./writ)
+[projects](./proj)
 -->
 
 <br><br>

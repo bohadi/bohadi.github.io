@@ -1,7 +1,6 @@
-CNAME
-smb/
+*.swp
+draft/
 _site/
-_drafts/
 .sass-cache/
 .jekyll-metadata
-*.swp
+CNAME
