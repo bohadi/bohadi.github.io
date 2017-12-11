@@ -2,7 +2,7 @@
 layout:
 ---
 
-![png](hello.png)
+![](hello.png =100x)
 <br>
 
 I am interested in engineering effective software, using in anger<br>
