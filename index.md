@@ -2,7 +2,7 @@
 layout:
 ---
 
-![](hello.png =100x)
+<img src="./get/hello.png" width="100">
 <br>
 
 I am interested in engineering effective software, using in anger<br>
@@ -21,7 +21,7 @@ Thank you for the visit.<br>
 Here is a short recording of me playing the guitar, which I enjoy.
 
 <audio width="400" height="40" controls controlsList="nodownload">
-  <source src="noodle.mp3" type="audio/mpeg">
+  <source src="./get/noodle.mp3" type="audio/mpeg">
 </audio>
 
 
