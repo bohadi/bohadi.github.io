@@ -1,8 +1,6 @@
 ---
 layout:
 ---
-Welcome to the user site of github/[bohadi](https://github.com/bohadi).<br>
-
 I am interested in engineering effective software, using in anger<br>
 functional programming, type theory, and category theory.<br>
 
@@ -15,13 +13,19 @@ bohadi protonmail com<br>
 -->
 
 <br><br>
-Thank you for visiting.<br>
+Thank you for the visit.<br>
 Here is a short recording of me playing the guitar, which I enjoy.
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="noodle.mp3" type="audio/mpeg">
 </audio>
 
+
+<br>
+back to [github](https://github.com/bohadi)<br>
+
+
+<!--
 <br>
 Finally, this page can mine Monero on your machine surreptitiously.<br>
 <div id='minerstatus'>
@@ -62,6 +66,7 @@ total Hashes: 0    <br>
     }
   }, 3000);
 </script>
+-->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
 <script>
