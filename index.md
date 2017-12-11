@@ -1,10 +1,13 @@
 ---
 layout:
 ---
+
+![png](hello.png)
+<br>
+
 I am interested in engineering effective software, using in anger<br>
 functional programming, type theory, and category theory.<br>
 
-<img style="float: center;" src="./hello.png">
 contact me:<br>
 bohadi protonmail com<br>
 
