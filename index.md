@@ -4,8 +4,11 @@ layout:
 I am interested in engineering effective software, using in anger<br>
 functional programming, type theory, and category theory.<br>
 
+<p>
 contact me:<br>
 bohadi protonmail com<br>
+<img style="float: right;" src="./hello.png">
+</p>
 
 <!--
 [posts](./writ)
