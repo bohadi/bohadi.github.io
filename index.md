@@ -5,8 +5,7 @@ layout:
 <img src="./get/hello.png" width="100">
 <br>
 
-I am interested in engineering effective software, using in anger<br>
-functional programming, type theory, and category theory.<br>
+I am interested in engineering effective software.
 
 contact me:<br>
 bohadi protonmail com<br>
@@ -17,7 +16,7 @@ bohadi protonmail com<br>
 -->
 
 <br><br>
-Thank you for the visit.<br>
+Thanks for the visit.<br>
 Here is a short recording of me playing the guitar, which I enjoy.
 
 <audio width="400" height="40" controls controlsList="nodownload">
