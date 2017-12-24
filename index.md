@@ -5,8 +5,7 @@ layout:
 <img src="./get/hello.png" width="100">
 <br>
 
-I am interested in engineering effective software,<br>
-especially by type theory and machine learning.
+I am interested in engineering effective software.
 
 contact me:<br>
 bohadi protonmail com<br>
