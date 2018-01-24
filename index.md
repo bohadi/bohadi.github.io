@@ -10,17 +10,17 @@ I am interested in engineering effective software.
 contact me:<br>
 bohadi protonmail com<br>
 
+<br>
+<audio width="400" height="40" controls controlsList="nodownload">
+  <source src="./get/noodle.mp3" type="audio/mpeg">
+</audio>
+
 <!--
 [posts](./writ)
 [projects](./proj)
 
 <br><br>
-Thanks for the visit.<br>
-Here is a short recording of me playing the guitar, which I enjoy.
 
-<audio width="400" height="40" controls controlsList="nodownload">
-  <source src="./get/noodle.mp3" type="audio/mpeg">
-</audio>
 -->
 
 
