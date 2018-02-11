@@ -9,7 +9,8 @@ I am interested in engineering effective software,<br>
 especially by advances in type theory and machine learning.
 
 contact me:<br>
-bobak hadidi gmail com<br>
+2 15 2 1 11 . 8 1 4 9 4 9 at gmail <br>
+where a=1, b=2..<br>
 
 <br>
 <audio width="400" height="40" controls controlsList="nodownload">
