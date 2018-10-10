@@ -5,8 +5,9 @@
 #github_username: bohadi
 
 markdown: kramdown
-theme: #minima
-#plugins:
+theme: minima
+plugins:
+  - jekyll-redirect-from
 
 # exclude:
 #   - Gemfile
