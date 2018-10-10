@@ -1,22 +1,20 @@
 ---
-redirect_from: "./blog/"
+redirect_from: "/blog/"
 ---
 
-<figure>
-  <img src="./get/hello.jpg" width="250">
-  <figcaption> Shanghai CN, Sept 2018 </figcaption>
-</figure>
+<img src="./get/hello.jpg" width="300"><br>
+Shanghai CN, Sept 2018
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="./get/noodle.mp3" type="audio/mpeg">
 </audio>
 
-## blog
-[Hello, World!](./blog/hello/)Oct 10 2018<br>
+## posts
+[Hello, World!](./blog/hello/) Oct 10 2018<br>
 
 
 <br>
-back to [github](https://github.com/bohadi)<br>
+##### back to [github](https://github.com/bohadi)<br>
 ---
 
 contact me:<br>
