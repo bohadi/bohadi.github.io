@@ -1,10 +1,9 @@
-### Hello, World!
-####  Oct 10 2018
+Hello, World!<br>
+<small>Oct 10 2018</small>
 
 ```haskell
 print $ (sequence $ replicate 13 $ chr <$> [32..126]) !! 22011474394810164197455861
 ```
 > Hello, World!
 
-<br>
-back to [index](../../)
+<br><small>back to [index](../../)</small><br>

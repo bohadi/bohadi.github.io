@@ -13,8 +13,7 @@ Shanghai CN, Sept 2018
 [Hello, World!](./blog/hello/) Oct 10 2018<br>
 
 
-<br>
-##### back to [github](https://github.com/bohadi)<br>
+<br><small>back to [github](https://github.com/bohadi)</small><br>
 ---
 
 contact me:<br>
