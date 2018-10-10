@@ -13,12 +13,11 @@ Shanghai CN, Sept 2018
 [Hello, World!](./blog/hello/) Oct 10 2018<br>
 
 
-<br><small>back to [github](https://github.com/bohadi)</small><br>
 ---
-
 contact me:<br>
 2 15 8 1 4 9 <i> at protonmail dot com </i><br>
 where a=1, b=2..<br>
+<br><small>back to [github](https://github.com/bohadi)</small><br>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
