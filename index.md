@@ -8,8 +8,8 @@ redirect_from: "/blog/"
   <td> <img src="./get/shanghai.jpg" width="300"> </td>
 </tr>
 <tr>
+  <td> <small> Beijing CN, April 2019 </small> </td>
   <td> <small> Shanghai CN, Sept 2018 </small> </td>
-  <td> <small> Beijing CN, April 2018 </small> </td>
 </tr>
 <table>
 
