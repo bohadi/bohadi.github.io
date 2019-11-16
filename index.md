@@ -11,7 +11,7 @@ redirect_from: "/blog/"
   <td> <small> Beijing CN, April 2019 </small> </td>
   <td> <small> Shanghai CN, Sept 2018 </small> </td>
 </tr>
-<table>
+</table>
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="./get/noodle.mp3" type="audio/mpeg">
