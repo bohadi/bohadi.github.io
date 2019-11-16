@@ -2,10 +2,16 @@
 redirect_from: "/blog/"
 ---
 
-<img src="./get/shanghai.jpg" width="300"><br>
-<small> Shanghai CN, Sept 2018 </small>
-<img src="./get/beijing.jpg" width="300"><br>
-<small> Beijing CN, April 2018 </small>
+<table>
+<tr>
+  <td> <img src="./get/beijing.jpg" width="300"> </td>
+  <td> <img src="./get/shanghai.jpg" width="300"> </td>
+</tr>
+<tr>
+  <td> <small> Shanghai CN, Sept 2018 </small> </td>
+  <td> <small> Beijing CN, April 2018 </small> </td>
+</tr>
+<table>
 
 <audio width="400" height="40" controls controlsList="nodownload">
   <source src="./get/noodle.mp3" type="audio/mpeg">
