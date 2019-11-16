@@ -45,7 +45,7 @@ redirect_from: "/blog/"
 ───────────────────────────────<br>
 <small>
 contact:<br>
-bohadi <i> at protonmail dot com </i><br>
+<i> bohadi at protonmail dot com </i><br>
 </small>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106946514-1"></script>
