@@ -7,7 +7,7 @@ Dec 18 2018 last updated<br><br>
 
 <br><br>
 <a href="http://fakeisthenewreal.org/reform/">
-<img src="./get/electoralstates.jpg" width="900" title="Fra Mauro map North-South (inverted) rotation"><br>
+<img src="./get/electoralstates.jpg" width="900" title="http://fakeisthenewreal.org/reform/"><br>
 <small>Electoral college reform (fifty states with equal population)<br>
 </small></a>
 <small>
