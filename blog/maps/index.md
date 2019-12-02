@@ -8,7 +8,7 @@ Dec 18 2018 last updated<br><br>
 <br><br>
 <a href="http://fakeisthenewreal.org/reform/">
 <img src="./get/electoralstates.jpg" width="900" title="http://fakeisthenewreal.org/reform/"><br>
-<small>Electoral college reform (fifty states with equal population)<br>
+<small>Electoral college reform (fifty states with equal population, 2012)<br>
 </small></a>
 <small>
 美国每州政改变成大概6亿人口的州，得名于重要地理特点。<br>
