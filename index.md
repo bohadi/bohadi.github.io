@@ -2,6 +2,13 @@
 redirect_from: "/blog/"
 ---
 
+### 玩意儿
+[rustrl](./rustrl/)                                          <small>Mth dd 2018</small><br>
+[smb](./smb/)                                                <small>Mth dd 2018</small><br>
+[bana](./rotjs_tut/)                                         <small>Mth dd 2018</small><br>
+
+<br><br>
+
 <table>
 <tr>
   <td> <img src="./get/beijing.jpg" width="300"> </td>
@@ -19,18 +26,14 @@ redirect_from: "/blog/"
 
 <br>
 
-### drafts
+<!--
+### random
 [Chinese](./blog/chinese/)                                   <small>Mth dd 2018 updated</small><br>
 [Persian](./blog/persian/)                                   <small>Mth dd 2018 updated</small><br>
 [Interesting Maps](./blog/maps/)                             <small>Mth dd 2018</small><br>
 [Hello, World!](./blog/hello/)                               <small>Oct 10 2018</small><br>
 
-### 玩意儿
-[smb](./smb/)                             <small>Mth dd 2018</small><br>
-[bana](./rotjs_tut/)                             <small>Mth dd 2018</small><br>
-
-<!--
-### other
+### stuff
 [Raymarching Distance Fields](./blog/raymarching/)           <small>Mth dd 2018</small><br>
 [Space](./blog/space/)                                       <small>Mth dd 2018</small><br>
 [Statecraft](./blog/statecraft/)                             <small>Mth dd 2018</small><br>
