@@ -2,12 +2,14 @@
 redirect_from: "/blog/"
 ---
 
+<br>
+
 ### 玩意儿
 [rustrl](./rustrl/)                                          <small>Mth dd 2018</small><br>
 [smb](./smb/)                                                <small>Mth dd 2018</small><br>
 [bana](./rotjs_tut/)                                         <small>Mth dd 2018</small><br>
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -26,11 +28,13 @@ redirect_from: "/blog/"
 
 <br>
 
+### random
+[Interesting Maps](./blog/maps/)                             <small>Mth dd 2018</small><br>
+
 <!--
 ### random
 [Chinese](./blog/chinese/)                                   <small>Mth dd 2018 updated</small><br>
 [Persian](./blog/persian/)                                   <small>Mth dd 2018 updated</small><br>
-[Interesting Maps](./blog/maps/)                             <small>Mth dd 2018</small><br>
 [Hello, World!](./blog/hello/)                               <small>Oct 10 2018</small><br>
 
 ### stuff

@@ -3,7 +3,25 @@
 
 <br>
 ### Interesting Maps and Territories
-Dec 18 2018 last updated<br><br>
+Jan 01 2020 last updated<br><br>
+
+<br><br>
+<a href="https://www.exchangerates.org.uk/articles/1325/the-200-year-pound-to-dollar-exchange-rate-history-from-5-in-1800s-to-todays.html">
+<img src="./get/sterlingUSDsince1800.png" width="900" title="USD per pound since 1800"><br>
+<small>USD per pound since 1800 (2020)<br>
+</small></a>
+<small>
+从英帝国至今每英镑美元汇率<br>
+</small>
+
+<br><br>
+<a href="https://en.wikipedia.org/wiki/List_of_writing_systems">
+<img src="./get/writingsystems.svg" width="900" title="Writing Systems of the World"><br>
+<small>World writing systems in use (wikipidia 2019)<br>
+</small></a>
+<small>
+世界上各个文字系统<br>
+</small>
 
 <br><br>
 <a href="http://fakeisthenewreal.org/reform/">
@@ -33,6 +51,14 @@ HDI is a composite that proxies health, knowledge, and living standard
 via life expectancy, education years, and purchasing power parity.<br>
 </small>
 
+<br><br>
+<a href="https://www.cfr.org/article/irans-regional-armed-network">
+<img src="./get/iran_network.png" width="900" title="https://www.cfr.org/article/irans-regional-armed-network"><br>
+<small>Iran's Regional Affiliates (CFR 2020)<br>
+</small></a>
+<small>
+Regional militias backed by ISI via CFR.<br>
+</small>
 
 
 <br><br> <br><br>

@@ -45,6 +45,119 @@ If you are writing a farsi only document, may also run vim -F [...]
 ش ذ ز ی ث ۱ ۲ ۳ ۴ ۵
 </div>
 
+number۰punctuation
+  ۱۲۳۴۵۶۷۸۹۰-=
+  1234567890-=
+  !٬٫$٪×، )( +
+
+keypress | shift+fa | fa | romanization[^shift romanization]
+  1 farsi alphabetical
+  2 by qwerty
+  3 roman alphabetical
+
+1 farsi alphabetical
+  h ا alef
+  f ب be
+  m پ pe
+  j ت te
+  e ث se
+  [ ج jim
+  ] چ če
+  p ح hā-ye hotti
+  o خ xe
+  n د dāl
+  b ذ zāl
+  v ر re
+  c ز ze
+  C ژ že
+  s س sin
+  a ش šin
+  w ص sād
+  q ض zād
+  x ط tā
+  z ظ zā
+  u ع 'ayn
+  y غ qayn
+  t ف fe
+  r ق qāf
+  ; ک kāf
+  ' گ gāf
+  g ل lām
+  l م mim
+  k ن nun
+  , و vāv
+  i ه hā-ye havvaz
+  d ی ye
+
+2 by qwerty
+  q ْ  ض z
+  w ٌ  ص s
+  e ٍ  ث s
+  r ً  ق q
+  t ُ  ف f ^o/u
+  y ِ  غ q ^e
+  u َ  ع ' ^o
+  i ّ  ه h/-ye
+  o ] خ x
+  p [ ح h
+  [ } ج j
+  ] { چ č
+  a ش ؤ š
+  s س ئ s
+  d ی ي y/i/ey/-a-/-e-/-ye-
+  f ب إ b
+  g ل أ l
+  h ا آ a/ā
+  j ت ة t
+  k » ن n
+  l « م l
+  ; : ک k
+  ' گ ؛ g
+  z ظ ك z
+  x   ط t
+  c ز ژ z ž
+  v   ر r
+  b   ذ z ^zero-width non-joiner
+  n   د d
+  m پ ء p ^'
+  , و > v/o/ow
+  .   <
+  /   ؟
+
+3 roman alphabetical
+  h ا alef
+  f ب be
+  n د dāl
+  u ع 'ayn
+  t ف fe
+  ' گ gāf
+  p ح hā-ye hotti
+  i ه hā-ye havvaz
+  [ ج jim
+  C ژ že
+  ; ک kāf
+  g ل lām
+  l م mim
+  k ن nun
+  m پ pe
+  r ق qāf
+  y غ qayn
+  v ر re
+  s س sin
+  w ص sād
+  e ث se
+  j ت te
+  x ط tā
+  , و vāv
+  o خ xe
+  d ی ye
+  c ز ze
+  b ذ zāl
+  q ض zād
+  z ظ zā
+  ] چ če
+  a ش šin
+
 <br><br>
 ## Perso-Arabic alphabet
 <br>

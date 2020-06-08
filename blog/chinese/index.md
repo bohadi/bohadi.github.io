@@ -31,6 +31,23 @@ Table of Contents
 <br>
 
 <br><br>
+## 通用的一音一字 Common monosyllable words
+<br>
+
+> 捡 <small>jiǎn</small><br>
+> 收拾取其
+
+<br><br>
+## 三音节词 Trisyllabic words/phrases
+<br>
+
+> 死对头 <small>sǐduìtou</small><br>
+> 最仇敌或长久对手
+
+> 小丫头 <small>xiǎoyātou</small><br>
+> 小女孩
+
+<br><br>
 ## 会意子 Semantic compounds
 休
 好
@@ -181,6 +198,9 @@ Table of Contents
 
 > 两肋插刀 <small>liǎnglèi chādāo</small><br>
 > To help a friend at any cost, "both ribs knife-pierced "
+
+> 柴米油盐酱醋茶 <small>chái mǐ yóu yán jiàng cù chá</small><br>
+> Life's 7 daily necessities
 
 <br><br>
 ## 语法 Grammar
