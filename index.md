@@ -14,11 +14,11 @@ redirect_from: "/blog/"
 <table>
 <tr>
   <td> <img src="./get/beijing.jpg" width="300"> </td>
-  <td> <img src="./get/shanghai.jpg" width="300"> </td>
+<!--  <td> <img src="./get/shanghai.jpg" width="300"> </td>  -->
 </tr>
 <tr>
-  <td> <small> Beijing CN, April 2019 </small> </td>
-  <td> <small> Shanghai CN, Sept 2018 </small> </td>
+  <td> <small> Beijing CN  Mth 2018 </small> </td>
+<!--  <td> <small> Shanghai CN  Mth 2018 </small> </td>  -->
 </tr>
 </table>
 
