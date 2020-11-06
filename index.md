@@ -2,41 +2,13 @@
 redirect_from: "/blog/"
 ---
 
-<br>
-
-### 玩意儿
-[rustrl](./rustrl/)                                          <small>Mth dd 2018</small><br>
-[smb](./smb/)                                                <small>Mth dd 2018</small><br>
-[bana](./rotjs_tut/)                                         <small>Mth dd 2018</small><br>
 
 <br>
-
-<table>
-<tr>
-  <td> <img src="./get/beijing.jpg" width="300"> </td>
-<!--  <td> <img src="./get/shanghai.jpg" width="300"> </td>  -->
-</tr>
-<tr>
-  <td> <small> Beijing CN  Mth 2018 </small> </td>
-<!--  <td> <small> Shanghai CN  Mth 2018 </small> </td>  -->
-</tr>
-</table>
-
-<audio width="400" height="40" controls controlsList="nodownload">
-  <source src="./get/noodle.mp3" type="audio/mpeg">
-</audio>
-
+<i> Stay tuned </i><br>
 <br>
 
-<!--
-### random
-[Hello, World!](./blog/hello/)                               <small>Oct 10 2018</small><br>
-[Raymarching Distance Fields](./blog/raymarching/)           <small>Mth dd 2018</small><br>
-[Space](./blog/space/)                                       <small>Mth dd 2018</small><br>
-[Statecraft](./blog/statecraft/)                             <small>Mth dd 2018</small><br>
-[language combinatorial structure](./blog/combinatorics/)    <small>Mth dd 2018</small><br>
-[Bricknance](./blog/bricknance/)                             <small>Mth dd 2018</small><br>
-  -->
+[about](./blog/about/)
+
 
 <br><br><br> <br><br><br>
 <small>back to [github](https://github.com/bohadi)</small>
