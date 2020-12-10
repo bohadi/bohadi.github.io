@@ -7,7 +7,7 @@ plugins:
   - jekyll-redirect-from
 
 github_username: bohadi
-google_analytics: UA-106946514-1
+  #google_analytics: UA-106946514-1
 
 # exclude:
 #   - Gemfile

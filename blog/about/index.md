@@ -4,7 +4,7 @@
 <br>
 ### About
 
-Hi and welcome to my blog, here I'll writing about technical topics.
+welcome to my web log!
 
 
 <table>
